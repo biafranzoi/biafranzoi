@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @biafranzoi
+- 👀 I’m interested in UX, UI, Product and Front-end development
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on projects as a UX/UI designer
+- 📫 Reach me by e-mail: bia.franzoi@gmail.com
